@@ -1,6 +1,6 @@
 <#
 .Synopsis
-   Authenticate to Zoho API using Self Client
+   Authenticate to Zoho API using Self Client.
 .DESCRIPTION
    Authenticate to Zoho API using Self Client. 
 
